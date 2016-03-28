@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KM</string>
+    <string name="google_map_api_key">AIzaSyBFVEr3kESvLZfsDV65RjGWwb72_rJdLqE</string>
 </resources>
