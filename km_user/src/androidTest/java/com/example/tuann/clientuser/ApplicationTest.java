@@ -1,4 +1,4 @@
-package jp.co.goga.km_user;
+package com.example.tuann.clientuser;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
